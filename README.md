@@ -1,12 +1,7 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**alphawxyz/alphawxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya alphawxyz.\
 
-Here are some ideas to get you started:
+Saya seorang pelajar di [Dicoding](https://www.dicoding.com/).\
 
-- 🔭 I’m currently working freelance
-- 🌱 I’m currently learning web and android dev
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: crypto bounty hunter
--->
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alphawxyz/)ku ya.
